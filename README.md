@@ -30,6 +30,7 @@ This script runs everyday to re-assign everybody to a new seat.
 ├── README.md
 └── Output.csv
 ```
+---
 ## Installation
 
 1. **Clone the project:**
@@ -48,9 +49,8 @@ cd Challenge-openspace-classifier
 ```
 python main.py
 ```
-
+---
 ## Usage
-
 
 The script reads your input file (new_colleagues.csv), and organizes your colleagues to random seat assignments. The resulting seating plan is displayed in your console and also saved to an "Output.csv" file in your root directory. 
 
@@ -80,8 +80,11 @@ if __name__ == "__main__":
     main()
 
 ```
+---
+
 ## Timeline
 This project took 2 days for completion.
+---
 
 ## 📌 Personal context note
 This project was done as part of the AI & Data Science Bootcamp at BeCode (Ghent), class of 2025-2026. 
