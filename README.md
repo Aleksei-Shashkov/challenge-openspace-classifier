@@ -17,18 +17,22 @@ This script runs everyday to re-assign everybody to a new seat.
 
 ## Repo structure
 
-```
+``` bash
 .
+├── assets/
+│   ├── members.txt
+│   └── picture.png
 ├── utils/
 │   ├── __init__.py
 │   ├── file_utils.py
 │   ├── openspace.py
 │   └── table.py
 ├── .gitignore
+├── dev_notebook.ipynb
 ├── main.py
-├── new_colleagues.csv
-├── README.md
-└── Output.csv
+├── openspace_seating.csv
+└── README.md
+
 ```
 ---
 ## Installation
@@ -83,6 +87,7 @@ if __name__ == "__main__":
 ---
 
 ## Timeline
+
 This project took 2 days for completion.
 ---
 
