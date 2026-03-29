@@ -86,9 +86,9 @@ if __name__ == "__main__":
 ```
 ---
 
-## Timeline
+## 🕒 Timeline
+This solo project was completed over 2 days.
 
-This project took 2 days for completion.
 ---
 
 ## 📌 Personal context note
